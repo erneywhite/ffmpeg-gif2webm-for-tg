@@ -17,7 +17,6 @@
 
 Для установки ffmpeg на macOS (через Homebrew):
 
-```bash
 brew install ffmpeg
 ```
 
