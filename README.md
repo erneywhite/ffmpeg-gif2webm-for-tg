@@ -58,7 +58,7 @@ brew install ffmpeg
 1. Склонируйте репозиторий:
 
 ```bash
-git clone [https://github.com/yourname/gif2tgwebm.git](https://github.com/erneywhite/ffmpeg-gif2webm-for-tg.git)
+git clone https://github.com/erneywhite/ffmpeg-gif2webm-for-tg.git
 cd gif2tgwebm
 ```
 
