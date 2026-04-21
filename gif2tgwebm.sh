@@ -21,7 +21,7 @@ DEFAULT_CRF_START_STICKER=32
 DEFAULT_CRF_START_EMOJI=36
 
 CRF_STEP=2
-CRF_MAX=46
+CRF_MAX=50
 
 ################ ПАРСИНГ АРГУМЕНТОВ ################
 # Использование:
